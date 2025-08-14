@@ -1,0 +1,3 @@
+# creating UI using tkinter library then connect with SQL to save data...
+>> So tkinter is a inbuild library in python to imported that, and use to create a simple UI with based our requirement and specification,
+then I'll connect with database like mysql after with the help tkinter UI to store a data in my database.
